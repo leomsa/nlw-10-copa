@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/capa.png" width="100%">
+  <img alt="calendario da copa" src=".github/capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O calendário é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O calendário da copa é um projeto que mostra os jogos 
+da copa  de 2022.
 
 ## 🔖 Layout
 
